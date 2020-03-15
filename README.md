@@ -6,3 +6,6 @@ This is a simple code where I have used randrange method from random module.
 
 2> GuessNumber:
 This is again a simple code where we will ask a person to guess a number in the range of 1 to 10 and give him clues to ensure that he reaches it. 
+
+3> Madlib:
+You can ask a person to enter place, name,adjective verb and time. It will then input it into a story.
